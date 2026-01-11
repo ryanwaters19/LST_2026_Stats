@@ -1,62 +1,62 @@
-Name	DC Points	Wins	AVG Score	Best Score	Birdies	Eagles
-Aaron Lester	0	0	85	0	0	0
-Adam Brown	0	0	67	0	2	0
-Aidan Franke	0	0	89	0	1	0
-Austin Russell	20	0	79	0	1	0
-Babe Walker	0	0	81.5	0	4	0
-Barrett Graham	0	0	73	0	2	0
-Beau Barrington	0	0	76.7	0	1	0
-Ben Brooks	0	0	76	0	1	0
-Ben Fuller	0	0	78.5	0	5	0
-Bennett Brock	0	0	75	0	3	0
-Blaze Beason	0	0	77	0	1	0
-Brendan Winters	0	0	72	0	8	0
-Bryson Bianco	0	0	69.5	0	6	0
-Cade Lewis	0	0	76	0	5	0
-Cam Ruk	0	0	74	0	0	0
-Chris Hughes	0	0	75	0	4	1
-Cole Bennett	0	0	85	0	1	0
-Cullen Scott	0	0	77	0	1	0
-Davis Boehm	0	0	82.5	0	1	0
-Davis Milton	0	0	78	0	2	0
-Ely Knaupe	0	0	89	0	0	0
-Ethan Cherry	0	0	-	0	0	0
-Ethan Dabney	0	0	72	0	2	0
-Grant Lair	0	0	81	0	1	0
-Holt Dorris	0	0	77	0	0	0
-Hunter McClean	0	0	-	0	0	0
-Hyer Thomas	0	0	-	0	0	0
-Ian Raphael	0	0	77	0	0	1
-Jack Fain	0	0	77.5	0	2	0
-Jack McConnell	0	0	76	0	2	0
-Jake Robinson	0	0	81	0	5	0
-Jake Saunders	0	0	-	0	0	0
-Jamie Clyde	0	0	72.5	0	5	0
-JD Beverly	0	0	81	0	0	0
-Jimmie Fields	0	0	-	0	0	0
-Joey Severt	0	0	74	0	0	0
-John Hoover	0	0	72.5	0	3	0
-Keegan Ferer	0	0	79.5	0	2	0
-Marco Dizon	0	0	79.5	0	0	0
-Matt Campbell	0	0	75	0	2	0
-Matt Moseley	0	0	70	0	6	0
-Matthew Lodwick	0	0	71	0	3	0
-Michael Clarke	0	0	75.5	0	5	0
-Michael Huber	0	0	70	0	2	0
-Pat Ellis	0	0	68	0	3	0
-Patrick McNulty	0	0	75	0	1	0
-Paul Brittain	0	0	81.5	0	2	0
-Riter Kerr	0	0	-	0	0	0
-Robert Meara	0	0	73.5	0	0	0
-Robert Taaffe	0	0	-	0	0	0
-Rory Hogan	0	0	72	0	1	0
-Ryan Waters	0	0	75.5	0	4	0
-Schaeffer Rees	0	0	-	0	0	0
-Tanner Ledet	0	0	75	0	2	0
-Tee Hill	0	0	85	0	0	0
-Thomas Jeansonne	0	0	101	0	0	0
-Walt Bruce	0	0	-	0	0	0
-Will Budenholzer	0	0	-	0	0	0
-Will Reichert	0	0	69	0	0	0
-Willis Hagan	0	0	72.5	0	8	0
-Zach Brantley	0	0	-	0	0	0
+Name,DC Points,Wins,AVG Score,Best Score,Birdies,Eagles
+Aaron Lester,84,0,85,0,0,0
+Adam Brown,146,0,67,0,2,0
+Aidan Franke,74,0,89,0,1,0
+Austin Russell,29,0,79,0,1,0
+Babe Walker,91,0,81.5,0,4,0
+Barrett Graham,138,0,73,0,2,0
+Beau Barrington,137,0,76.7,0,1,0
+Ben Brooks,148,0,76,0,1,0
+Ben Fuller,117,0,78.5,0,5,0
+Bennett Brock,38,0,75,0,3,0
+Blaze Beason,181,0,77,0,1,0
+Brendan Winters,71,0,72,0,8,0
+Bryson Bianco,85,0,69.5,0,6,0
+Cade Lewis,33,0,76,0,5,0
+Cam Ruk,5,0,74,0,0,0
+Chris Hughes,132,0,75,0,4,1
+Cole Bennett,102,0,85,0,1,0
+Cullen Scott,92,0,77,0,1,0
+Davis Boehm,81,0,82.5,0,1,0
+Davis Milton,104,0,78,0,2,0
+Ely Knaupe,94,0,89,0,0,0
+Ethan Cherry,131,0,-,0,0,0
+Ethan Dabney,94,0,72,0,2,0
+Grant Lair,94,0,81,0,1,0
+Holt Dorris,66,0,77,0,0,0
+Hunter McClean,135,0,-,0,0,0
+Hyer Thomas,148,0,-,0,0,0
+Ian Raphael,46,0,77,0,0,1
+Jack Fain,126,0,77.5,0,2,0
+Jack McConnell,12,0,76,0,2,0
+Jake Robinson,80,0,81,0,5,0
+Jake Saunders,13,0,-,0,0,0
+Jamie Clyde,100,0,72.5,0,5,0
+JD Beverly,147,0,81,0,0,0
+Jimmie Fields,95,0,-,0,0,0
+Joey Severt,164,0,74,0,0,0
+John Hoover,134,0,72.5,0,3,0
+Keegan Ferer,171,0,79.5,0,2,0
+Marco Dizon,43,0,79.5,0,0,0
+Matt Campbell,43,0,75,0,2,0
+Matt Moseley,65,0,70,0,6,0
+Matthew Lodwick,76,0,71,0,3,0
+Michael Clarke,115,0,75.5,0,5,0
+Michael Huber,153,0,70,0,2,0
+Pat Ellis,64,0,68,0,3,0
+Patrick McNulty,114,0,75,0,1,0
+Paul Brittain,107,0,81.5,0,2,0
+Riter Kerr,128,0,-,0,0,0
+Robert Meara,100,0,73.5,0,0,0
+Robert Taaffe,67,0,-,0,0,0
+Rory Hogan,130,0,72,0,1,0
+Ryan Waters,100,0,75.5,0,4,0
+Schaeffer Rees,59,0,-,0,0,0
+Tanner Ledet,30,0,75,0,2,0
+Tee Hill,113,0,85,0,0,0
+Thomas Jeansonne,118,0,101,0,0,0
+Walt Bruce,173,0,-,0,0,0
+Will Budenholzer,138,0,-,0,0,0
+Will Reichert,117,0,69,0,0,0
+Willis Hagan,158,0,72.5,0,8,0
+Zach Brantley,109,0,-,0,0,0
